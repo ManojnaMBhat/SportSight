@@ -11,13 +11,20 @@ SportSight is a deep learning + IoT-based system for **real-time tracking of spo
 ## Installation
 
 Clone the repository:
-```bash
+```
 https://github.com/ManojnaMBhat/SportSight.git
 cd SportSight
 ```
+## YOLO Weights Download
+```
+Download the `yolov3.weights` file (approx 248MB) from the official YOLO website:
 
+[Download yolov3.weights](https://pjreddie.com/media/files/yolov3.weights)
+
+Place the downloaded `yolov3.weights` file in the project folder before running:
+```
 ## Install dependencies:
-```bash
+```
 pip install -r requirements.txt
 ```
 
