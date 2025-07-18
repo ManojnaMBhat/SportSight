@@ -13,7 +13,7 @@ output_layers = [layer_names[i - 1] for i in net.getUnconnectedOutLayers()]
 colors = np.random.uniform(0, 255, size=(len(classes), 3))
 
 # IP Webcam URL
-video_url = "Paste your URL from IPWEB CAM here"
+video_url = "Paste your URL from IPWEB CAM"
 cap = cv2.VideoCapture(video_url)
 
 # Global set to track detected equipment
