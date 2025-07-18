@@ -28,7 +28,9 @@ pip install -r requirements.txt
 4️⃣ Run the project:
 ```
 python yolo_opencv.py
-Open in your browser: http://localhost:5000
+Open in your browser:
+```
+http://localhost:5000
 ```
 
 
