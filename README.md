@@ -32,11 +32,3 @@ Open in your browser:
 ```
 http://localhost:5000
 ```
-
-
-
-
-
-
-
-
